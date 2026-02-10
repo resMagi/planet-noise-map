@@ -1,6 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://dfrqrrajqiph3"]
-
-[ext_resource type="Script" path="res://gravity_noise_map.gd" id="1_nkdfr"]
-
-[node name="GravityNoiseMap" type="Node3D"]
-script = ExtResource("1_nkdfr")
